@@ -1,0 +1,13 @@
+D:\Projekty\SolutionTraining\SolutionTraining\bin\Debug\netcoreapp3.1\SolutionTraining.exe
+D:\Projekty\SolutionTraining\SolutionTraining\bin\Debug\netcoreapp3.1\SolutionTraining.deps.json
+D:\Projekty\SolutionTraining\SolutionTraining\bin\Debug\netcoreapp3.1\SolutionTraining.runtimeconfig.json
+D:\Projekty\SolutionTraining\SolutionTraining\bin\Debug\netcoreapp3.1\SolutionTraining.runtimeconfig.dev.json
+D:\Projekty\SolutionTraining\SolutionTraining\bin\Debug\netcoreapp3.1\SolutionTraining.dll
+D:\Projekty\SolutionTraining\SolutionTraining\bin\Debug\netcoreapp3.1\SolutionTraining.pdb
+D:\Projekty\SolutionTraining\SolutionTraining\obj\Debug\netcoreapp3.1\SolutionTraining.csprojAssemblyReference.cache
+D:\Projekty\SolutionTraining\SolutionTraining\obj\Debug\netcoreapp3.1\SolutionTraining.AssemblyInfoInputs.cache
+D:\Projekty\SolutionTraining\SolutionTraining\obj\Debug\netcoreapp3.1\SolutionTraining.AssemblyInfo.cs
+D:\Projekty\SolutionTraining\SolutionTraining\obj\Debug\netcoreapp3.1\SolutionTraining.csproj.CoreCompileInputs.cache
+D:\Projekty\SolutionTraining\SolutionTraining\obj\Debug\netcoreapp3.1\SolutionTraining.dll
+D:\Projekty\SolutionTraining\SolutionTraining\obj\Debug\netcoreapp3.1\SolutionTraining.pdb
+D:\Projekty\SolutionTraining\SolutionTraining\obj\Debug\netcoreapp3.1\SolutionTraining.genruntimeconfig.cache

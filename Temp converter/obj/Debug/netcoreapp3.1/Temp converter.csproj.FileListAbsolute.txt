@@ -1,0 +1,13 @@
+D:\Projekty\SolutionTraining\Temp converter\bin\Debug\netcoreapp3.1\Temp converter.exe
+D:\Projekty\SolutionTraining\Temp converter\bin\Debug\netcoreapp3.1\Temp converter.deps.json
+D:\Projekty\SolutionTraining\Temp converter\bin\Debug\netcoreapp3.1\Temp converter.runtimeconfig.json
+D:\Projekty\SolutionTraining\Temp converter\bin\Debug\netcoreapp3.1\Temp converter.runtimeconfig.dev.json
+D:\Projekty\SolutionTraining\Temp converter\bin\Debug\netcoreapp3.1\Temp converter.dll
+D:\Projekty\SolutionTraining\Temp converter\bin\Debug\netcoreapp3.1\Temp converter.pdb
+D:\Projekty\SolutionTraining\Temp converter\obj\Debug\netcoreapp3.1\Temp converter.csprojAssemblyReference.cache
+D:\Projekty\SolutionTraining\Temp converter\obj\Debug\netcoreapp3.1\Temp converter.AssemblyInfoInputs.cache
+D:\Projekty\SolutionTraining\Temp converter\obj\Debug\netcoreapp3.1\Temp converter.AssemblyInfo.cs
+D:\Projekty\SolutionTraining\Temp converter\obj\Debug\netcoreapp3.1\Temp converter.csproj.CoreCompileInputs.cache
+D:\Projekty\SolutionTraining\Temp converter\obj\Debug\netcoreapp3.1\Temp converter.dll
+D:\Projekty\SolutionTraining\Temp converter\obj\Debug\netcoreapp3.1\Temp converter.pdb
+D:\Projekty\SolutionTraining\Temp converter\obj\Debug\netcoreapp3.1\Temp converter.genruntimeconfig.cache
